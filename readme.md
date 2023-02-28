@@ -1,3 +1,3 @@
 ## Titulo del proyecto
-* Descripción: 
+* Descripción: Alanis Sánchez
 _Aca va una descripcion del proyecto
