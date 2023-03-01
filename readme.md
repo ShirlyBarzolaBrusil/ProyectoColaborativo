@@ -1,3 +1,3 @@
 ## Titulo del proyecto
-* Descripción:
+* Descripción: Shirly Barzola
 _Aca va una descripcion del proyecto
